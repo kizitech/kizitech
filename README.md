@@ -9,6 +9,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="www.linkedin.com/in/ohanikizito"><b>Here</b></a><br>
 or <a href="mailto:kizitoohani@gmail.com" target='_blank'><b>Email</b></a> me</p>
 
+
+<p align="center">
+<a href="https://www.github.com/kizitech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ohanikizito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ohani_Kizito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ---
 
 ## About ME
