@@ -5,7 +5,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFD617&size=20&multiline=true&width=515&lines=Welcome+to+Ohani+Kizito+Github+Profile" alt="Welcome!"/></div>
 
 <p align="center"> You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
 Ask me anything <a href="www.linkedin.com/in/ohanikizito"><b>Here</b></a><br>
 or <a href="mailto:kizitoohani@gmail.com" target='_blank'><b>Email</b></a> me</p>
 
@@ -16,13 +16,13 @@ or <a href="mailto:kizitoohani@gmail.com" target='_blank'><b>Email</b></a> me</p
 ---
 
 ## About Me
-<p align='justify'>I am <strong>Ohani Kizito</strong>, and I'm a <strong><em>Frontend Developer</em></strong>. I have been working on web based development project with frontend related tech like <strong>ReactJS</strong> and <strong>TailwindCSS</strong>. I am constantly working on improving my skills as a software engineer.
+<p align='justify'>I am <strong>Ohani Kizito</strong>, and I'm a <strong><em>Frontend Developer</em></strong>. I have been working on web-based development projects with frontend-related tech like <strong>ReactJS</strong> and <strong>TailwindCSS</strong>. I am constantly working on improving my skills as a software engineer.
 
 I am an incessant learner and a keen observer. Always ready to learn something new and enjoy bringing new ideas to life. I believe everything is an Art when we put our consciousness.
     
-I am a creative and skilled Frontend Developer with a passion for building elegant and intuitive user interfaces. With over 1 year of experience, I have worked on various web projects for clients in industries. I have expertise in experience with responsive design, accessibility, and website optimization. I have completed several online certification courses. I am a problem-solver with excellent communication skills and the ability to work well under pressure. I am committed to delivering high-quality solutions that meet user needs and exceed client expectations.
+I am a creative and skilled Frontend Developer with a passion for building elegant and intuitive user interfaces. With over 1 year of experience, I have worked on various web projects for industry clients. I have expertise in experience with responsive design, accessibility, and website optimization. I have completed several online certification courses. I am a problem-solver with excellent communication skills and the ability to work well under pressure. I am committed to delivering high-quality solutions that meet user needs and exceed client expectations.
     
-I'm on track to learning more about JavaScript, React.JS and Angular. 
+I'm on track to learn more about JavaScript, React.JS, and Angular. 
   
 </p>
 
@@ -31,7 +31,7 @@ I'm on track to learning more about JavaScript, React.JS and Angular.
 - 👋 Hi, I’m @kizitech
 - 👀 I’m interested in Web Development ⌘ and Personal Growth
 - 🌱 I’m currently learning React.js ⚛
-- 💞️ I’m looking to collaborate on creating dynamic and visually appealing web interfaces.
+- 💞️ I want to collaborate on creating dynamic and visually appealing web interfaces.
 - 📫 Reach out to me at kizitoohani@gmail.com
 
 
@@ -55,4 +55,9 @@ I'm on track to learning more about JavaScript, React.JS and Angular.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-      
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kizitech&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kizitech&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kizitech&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
