@@ -9,9 +9,8 @@ I’m a software developer who loves building things that actually make people�
 * My goal? To become the kind of developer people trust, enjoy working with, and can rely on for real values.
 * And no matter how busy life gets, I always want to find time to keep learning something new.
 
-### 🌐 Connect
-<hr >
-- 📫 [Email](mailto:kizitoohani@gmail.com)
-- 🔗 [Portfolio](https://kizitech-v2.vercel.app/)
+## 🌐 Connect
+* 📫 [Email](mailto:kizitoohani@gmail.com)
+* 🔗 [Portfolio](https://kizitech-v2.vercel.app/)
 
 I love connecting with individuals who share a passion for tech and are interested in collaborating on projects.🫂
